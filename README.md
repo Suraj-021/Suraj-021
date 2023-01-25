@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Walke</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://o.remove.bg/downloads/26b05b6c-09dd-4554-bf4c-a0ca27444cbf/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-866-removebg-preview.png">
+<img align="right" alt="Coding" width="400" src="https://o.remove.bg/downloads/ffbd9be8-01f8-478f-b299-fb1e4433660d/png-transparent-html-logo-computer-programming-child-source-code-software-developer-text-line-technology-removebg-preview.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-021&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-021" /> </p>
 
