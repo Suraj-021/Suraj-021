@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-021&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-021" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Data Structures**
 
 - 💬 Ask me about **CSS, Javascript**
 
