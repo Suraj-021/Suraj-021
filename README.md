@@ -15,6 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suraj-walke-58a45b235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj walke" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/user-attachments/assets/0db30124-0b1c-457a-a211-81bf054e7d0c" alt="suraj walke" height="70" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
