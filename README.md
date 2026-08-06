@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 💬 Ask me about **CSS, Javascript**
+- 💬 Ask me about **React, Next.JS**
 
 - 📫 How to reach me **Walkesuraj722@gmail.com**
 
